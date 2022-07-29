@@ -3,5 +3,12 @@
     height: 100px;
     border: 1px solid black;
     display: inline-block;
-    
+
+}
+
+.red {
+    color: red;
+}
+#js-container{
+    background-color: green;
 }
